@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tarif Ahammad Fuad Hazari - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+        <div class="hero">
+            <h1>Tarif Hazari</h1>
+            <p>Engineer | AI & Research Enthusiast | Industrial Automation</p>
+        </div>
+    </header>
+
+    <section id="about" class="section">
+        <h2>About Me</h2>
+        <p>As a fresh graduate, I bring a sophisticated foundation of academic, and practical adeptness in the realm of Electrical & Electronic Engineering with strong interpersonal skills at this stage of IR 4.0.
+
+To be precise, I have diverse interests along with hands-on competency in cutting-edge interdisciplinary technical areas within the field not limited to Industrial Automation, Electrical Engineering and Instrumentation, Control System Engineering, and Power System Engineering extended to state-of-the-art research in Semiconductor Fabrication Industry, Neuromorphic Computing, and Quantum Computing.
+
+As a continuous and fast learner, I have explored all the arenas of my interest through numerous Computer-Aided Design (CAD) software and programming languages. To name a few are mainly MATLAB-SIMULINK, LTSpice, Python, VHDL, EKTS, PVsyst, CODESYS, LogixPro and Intel Quartus are the major tools for estimating and designing electrical and electronic circuits & systems for simulation, and analysis as per the requirements. 
+
+AI-based tools for research and multipurpose software such as Mendeley/Zotero, MS Office Suite, G Suite, and ChatGPT are also easing my quotidian works.</p>
+    </section>
+
+    <section id="skills" class="section">
+        <h2>Skills</h2>
+        <ul class="skills-list">
+            <li>Intel Quartus</li>
+            <li>MATLAB</li>
+            <li>Python</li>
+            <li>AutoCAD</li>
+            <li>CODESYS</li>
+            <li>SPICE</li>
+        </ul>
+    </section>
+
+    <section id="projects" class="section">
+        <h2>Projects</h2>
+        <div class="projects-grid">
+            <div class="project-item">
+                <h3>Project 1</h3>
+                <p>Automatic Plant Irrigation System using Arduino-Uno. Designed and developed Arduino program and hardware components
+Built a high-performing automated crop irrigation system with precise ranges of operation</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>Feel free to reach out to me for any inquiries or opportunities.</p>
+        <ul class="contact-info">
+            <li>Email: <a href="mailto:youremail@example.com">myselftarif@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/TarifHazari" target="_blank">Tarif Hazari</a></li>
+            <li>GitHub: <a href="https://github.com/meTARIF" target="_blank">meTARIF</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
